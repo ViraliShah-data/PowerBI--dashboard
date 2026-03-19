@@ -10,7 +10,7 @@ The aim was to track key metrics and identify areas where the sales process can 
 
 * Designed an interactive dashboard to monitor pipeline stages from lead generation to deal closing
 * Included key metrics such as total revenue, average deal size, and lead conversion rate
-* Added filters to analyze performance by product category and region
+* Added filters to analyze performance by product category,country and year
 
 ## Key Insights
 
@@ -22,18 +22,12 @@ The aim was to track key metrics and identify areas where the sales process can 
 ## Tools Used
 
 * Power BI
-* CSV dataset
+* Excel dataset
 
 ## Files Included
 
 * Sales_Pipeline_Dashboard.pbix
-* dataset.zip (contains all CSV files used in the project)
+* Excel dataset
 * dashboard.png
-
-## How to Use
-
-Download the `.pbix` file and open it in Power BI Desktop to explore the dashboard.
-
----
 
 This project is part of my learning journey in data analytics, and I’m continuing to build more projects to strengthen my skills.
